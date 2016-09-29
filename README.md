@@ -1,4 +1,4 @@
-# todo-app
-Todo app example using nodejs, express, mongo and angular
+# ngTodo App
+Todo app example using NodeJS, ExpressJS, MongoDB and AngularJS
 
-Build followin tutorial series on http://adrianmejia.com/tags/Tutorial-MEAN-Stack/
+Build following tutorial series on http://adrianmejia.com/tags/Tutorial-MEAN-Stack/
